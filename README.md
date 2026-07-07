@@ -1,8 +1,8 @@
 # password-strength-checker-
 my first repository 
 A Python CLI tool that checks password strength based on 
-length
-character variety 
+length,
+character variety, 
 common security rules
 tells the user which portal the password is for.
 
